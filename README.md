@@ -1,4 +1,11 @@
-### Hi there 👋
+# Andrey Sukhodeev
+
+[![Linkedin](https://img.shields.io/badge/AndreySukhodeev-linkedin?logo=linkedin&color=4d4d4d&logoColor=0B66C3)](https://www.linkedin.com/in/andrey-sukhodeev-108a131b9/)
+[![Linkedin](https://img.shields.io/badge/Gravitymir-telegram?logo=telegram&color=4d4d4d&logoColor=1F97D5)](https://t.me/gravitymir)
+
+
+
+
 
 <!--
 **gravitymir/gravitymir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
